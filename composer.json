@@ -1,0 +1,38 @@
+{
+    "name": "wrodo/pico-collectives-links-plugin",
+    "description": "A Links-converting plugin for Pico CMS.",
+    "type": "pico-plugin",
+    "keywords": [ "pico", "picocms", "picocms-plugin", "pico-collectives-links-plugin", "wrodo" ],
+    "homepage": "https://github.com/WroDo/CollectivesLinks",
+    "license": "GPL V3",
+    "authors": [
+        {
+            "name": "Heiko Kretschmer",
+            "email": "usenet@cocoa-co.de",
+            "role": "Head Of Bullshit Bingo"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/WroDo/CollectivesLinks/graphs/contributors"
+        }
+    ],
+    "support": {
+        "docs": "https://github.com/WroDo/CollectivesLinks/blob/main/README.md",
+        "issues": "https://github.com/WroDo/CollectivesLinks/issues",
+        "source": "https://github.com/WroDo/CollectivesLinks"
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "picocms/pico": "^2.1"
+    },
+    "autoload": {
+        "classmap": [ "CollectivesLinks.php" ]
+    },
+    "extra": {
+        "installer-name": "CollectivesLinks"
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
+}
