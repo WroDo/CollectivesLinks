@@ -3,7 +3,7 @@ A Pico CMS plugin for fixing Nextcloud Collectives links
 
 # Why?
 
-Nextcloud Collectives create this markdown:
+Nextcloud Collectives creates this markdown:
 
 ````
 [Test](Known%20Issues%20%26%20ToDo.md?fileId=155813)
