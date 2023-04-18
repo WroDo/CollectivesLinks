@@ -22,7 +22,7 @@ class CollectivesLinks extends AbstractPicoPlugin
      * @var int
      */
     const API_VERSION = 3;
-    private $gFileLog="plugins/CollectivesLinks/.log.log";
+ //   private $gFileLog="plugins/CollectivesLinks/.log.log";
 
 
    /**
