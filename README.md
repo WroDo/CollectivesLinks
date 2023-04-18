@@ -17,3 +17,6 @@ This is what it should look like:
 
 This plugin converts (shortens) the URL.
 
+# More...
+More Pico CMS ideas here: https://www.wurst-wasser.net/pico
+
